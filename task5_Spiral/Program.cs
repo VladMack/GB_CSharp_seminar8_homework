@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 
-Console.WriteLine("Введи высоту и ширину квадратного массива пробел:");
+Console.WriteLine("Введи длину стороны квадратного массива:");
 int n = int.Parse(Console.ReadLine());
 Console.WriteLine();
 
